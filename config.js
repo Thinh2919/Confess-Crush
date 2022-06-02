@@ -10,7 +10,7 @@ const CONFIG = {
     question: 'sao anh lại yêu em',
     btnReply: 'trả lời ngắn gọn thôi nhé rùi bấm vô...',
     reply: 'bởi vì em xinh nè, nhoan nè, ngoan nè, hiểu chuyện nè,... nhiều thứ tốt nhắm hihi',
-    mess: 'bởi vì em xinh nè, nhoan nè, ngoan nè, hiểu chuyện nè,... nhiều thứ tốt nhắm hihi nên anh sẽ chấp nhận được tính của em và cùng em đi qua được khoảng thời gian khó khăn trong cảm xúc này của em',
+    mess: 'bởi vì em xinh nè, nhoan nè, ngoan nè, hiểu chuyện nè,... ',
     messDesc: 'Thương em.',
     btnAccept: 'CHÚC MỪNG SINH NHẬT CỤC CƯNGGGGGGGGGGGGGGGG',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
