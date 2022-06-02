@@ -1,20 +1,17 @@
 const CONFIG = {
-    titleWeb: "gửi choa cục cưng cụa anh",
+    titleWeb: "anh yêu em nhiềuuuuuuuuuuuuuuuuu",
     introTitle: 'Thẻo Ngu cụa anh',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
+    introDesc: `Chúc mừng bae của anh bước qua chủi 17 nhoa`,
+    btnIntro: 'nhấp vô đi em',
+    title: 'happy birthday bae',
+    desc: 'mong em yêu bản thân mình hơn, suy nghĩ tích cực hơn, lạc quan hơn. Mong sau này 2 đứa cùng nhau ăn sinh nhật dài dài nhờ, mong em có xìn cho anh được 50 tỷ nữa hihi  ',
+    btnYes: 'dạ, em hứa sẽ  cố gắng hơn và cho anh yêu 50 tỷ',
+    btnNo: 'hong á',
+    question: 'sao anh lại yêu em',
+    btnReply: 'bấm vô cái đi...',
+    reply: 'bởi vì em xinh nè, nhoan nè, ngoan nè, hiểu chuyện nè,... nhiều thứ tốt nhắm hihi',
+    mess: 'nên anh sẽ chấp nhận được tính của em và cùng em đi qua được khoảng thời gian khó khăn trong cảm xúc này của em',
+    messDesc: 'Thương em.',
+    btnAccept: 'CHÚC MỪNG SINH NHẬT CỤC CƯNGGGGGGGGGGGGGGGG',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
 }
