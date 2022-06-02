@@ -8,7 +8,7 @@ const CONFIG = {
     btnYes: 'dạ, em hứa sẽ  cố gắng hơn và cho anh yêu 50 tỷ',
     btnNo: 'hong á',
     question: 'sao anh lại yêu em',
-    btnReply: 'bấm vô cái đi...',
+    btnReply: 'trả lời i rùi bấm vô...',
     reply: 'bởi vì em xinh nè, nhoan nè, ngoan nè, hiểu chuyện nè,... nhiều thứ tốt nhắm hihi',
     mess: 'nên anh sẽ chấp nhận được tính của em và cùng em đi qua được khoảng thời gian khó khăn trong cảm xúc này của em',
     messDesc: 'Thương em.',
